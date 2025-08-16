@@ -50,11 +50,13 @@ Heart Disease Dataset UCI/
 
 ```r
 install.packages(c("tidyverse", "caTools", "glmnet", "pROC", "caret", "MASS"))
+```
 
 3. **Run the Analysis**:
 
 ```r
 source("Heart Disease Dataset UCI.R")
+```
 
 4. **Generate the Report**:
 To generate a detailed report in HTML or PDF format, open the R Markdown file Heart Disease Dataset UCI.Rmd in RStudio and click the Knit button to create a report.
