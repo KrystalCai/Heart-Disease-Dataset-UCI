@@ -47,10 +47,13 @@ Heart Disease Dataset UCI/
    git clone https://github.com/YourUsername/Heart-Disease-Dataset-UCI.git
 
 2. **Set Up R Environment**:
+
+```r
 install.packages(c("tidyverse", "caTools", "glmnet", "pROC", "caret", "MASS"))
 
 3. **Run the Analysis**:
 
+```r
 source("Heart Disease Dataset UCI.R")
 
 4. **Generate the Report**:
